@@ -6,7 +6,7 @@ import java.util.Map;
 
 public class FirstNonRepeatingCharacter_7 {
     public static void main(String[] args) {
-        String str = "swiss";
+        String str = "hello";
         // String str1 = "programming";
 
         char[] charArray = str.toCharArray();
@@ -19,10 +19,9 @@ public class FirstNonRepeatingCharacter_7 {
         }
 
         for(char cc:map.keySet()){
-            if(map.get(cc)==1){
                 System.out.println(cc+" "+map.get(cc));
                 break;
-            }
+
         }
 
     }

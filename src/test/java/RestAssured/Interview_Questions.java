@@ -437,22 +437,30 @@ public class Interview_Questions {
 
         37. how to setUp CI CD jenkins in your project explain in easy way
             To set up CI/CD with Jenkins in your project, follow these steps:
-            - Install Jenkins: Download and install Jenkins on your server or local machine. You can find installation
+            - Install Jenkins: Download and install Jenkins on your server or local machine. You can find
+            installation
             instructions on the official Jenkins website.
-            - Configure Jenkins: Access the Jenkins dashboard through your web browser and complete the initial setup,
+            - Configure Jenkins: Access the Jenkins dashboard through your web browser and complete the
+             initial setup,
              including creating an admin user and installing recommended plugins.
-            - Create a New Job: Click on "New Item" in the Jenkins dashboard to create a new job. Choose "Freestyle project"
+            - Create a New Job: Click on "New Item" in the Jenkins dashboard to create a new job. Choose
+            "Freestyle project"
              or "Pipeline" based on your requirements.
-            - Source Code Management: Configure the source code management section by linking your project repository
+            - Source Code Management: Configure the source code management section by linking your project
+             repository
             (e.g., GitHub, Bitbucket) to Jenkins. Provide the necessary credentials if required.
-            - Build Triggers: Set up build triggers to define when the job should run (e.g., on code commits,
+            - Build Triggers: Set up build triggers to define when the job should run (e.g., on code
+             commits,
             scheduled intervals).
-            - Build Steps: Define the build steps to compile, test, and package your application. You can use
+            - Build Steps: Define the build steps to compile, test, and package your application.
+            You can use
             shell commands, scripts, or specific build tools (e.g., Maven, Gradle).
             - Post-Build Actions: Configure post-build actions to deploy your application to the desired
             environment (e.g., staging, production) or notify team members of build results.
-            - Save and Run: Save the job configuration and trigger a build manually or wait for the defined triggers to initiate the build process automatically.
-            - Monitor Builds: Use the Jenkins dashboard to monitor build status, view logs, and analyze test results.
+            - Save and Run: Save the job configuration and trigger a build manually or wait for the defined
+            triggers to initiate the build process automatically.
+            - Monitor Builds: Use the Jenkins dashboard to monitor build status, view logs, and analyze test
+             results.
 
    
      how to manage api chaninges in your tests?
