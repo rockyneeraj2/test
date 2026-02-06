@@ -28,6 +28,7 @@ public class InterviewQuestions {
         - Inheritance: Mechanism by which one class can inherit properties and behaviors (methods) from another class.
         - Polymorphism: Ability of different classes to be treated as instances of the same class through a common interface, typically via method overriding or overloading.
         - Abstraction: Hiding complex implementation details and showing only the essential features of the object.
+
         Q3: What are the different access modifiers in Java?
         A3:
         The different access modifiers in Java are:
