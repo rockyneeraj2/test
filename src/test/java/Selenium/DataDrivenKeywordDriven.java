@@ -14,7 +14,8 @@ Here’s a **clear, interview-ready comparison** with examples and talking point
 
 ## 🔹 What is a Data-Driven Framework?
 
-A **Data-Driven Framework** separates **test data** from **test scripts** so the same test can run multiple times with different inputs.
+A **Data-Driven Framework** separates **test data** from **test scripts** so the same test can
+run multiple times with different inputs.
 
 ### 🔸 Data Sources
 
@@ -107,7 +108,8 @@ public void performAction(String keyword, String locator, String value) {
 
 ## 🔹 Interview-Winning Line
 
-> **“Data-Driven improves test coverage, while Keyword-Driven improves readability; hybrid frameworks give the best of both.”**
+> **“Data-Driven improves test coverage, while Keyword-Driven improves readability; hybrid frameworks
+give the best of both.”**
 
 ---
 

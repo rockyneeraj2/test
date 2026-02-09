@@ -35,7 +35,7 @@ public class finalFinallyFinalize {
 
 }
 
-            | Aspect            | final                       | finally   | finalize()   |
+| Aspect            | final                       | finally   | finalize()   |
 | ----------------- | --------------------------- | --------- | ------------ |
 | Type              | Keyword                     | Block     | Method       |
 | Purpose           | Restriction                 | Cleanup   | GC cleanup   |

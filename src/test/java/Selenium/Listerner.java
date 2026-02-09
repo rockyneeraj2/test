@@ -6,13 +6,10 @@ public class Listerner {
 
         /*
 
-        Nice one 👍 — **Listeners** are a *very common* Selenium interview topic.
-
----
-
 ## 🔹 What are Listeners in Selenium?
 
-**Listeners** are special classes in **TestNG** (used with Selenium) that **listen to test execution events** and allow us to perform actions **automatically** when those events occur.
+**Listeners** are special classes in **TestNG** (used with Selenium) that **listen to
+test execution events** and allow us to perform actions **automatically** when those events occur.
 
 📌 Example events:
 
@@ -20,20 +17,6 @@ public class Listerner {
 * Test passed
 * Test failed
 * Test skipped
-
----
-
-## 🔹 Why Do We Use Listeners?
-
-In real projects, listeners are used to:
-
-* 📸 Take **screenshots on test failure**
-* 📊 Generate **custom reports** (Extent / Allure)
-* 🧾 Log test execution status
-* 🔁 Retry failed tests
-* 🔔 Send email / Slack notifications
-
-👉 **They reduce duplicate code** inside test methods.
 
 ---
 
