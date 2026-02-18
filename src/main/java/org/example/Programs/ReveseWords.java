@@ -6,10 +6,18 @@ public class ReveseWords {
 
                 String str = "Java is easy";
                 String[] words = str.split(" ");
+                String rev ="";
 
                 for (int i = words.length - 1; i >= 0; i--) {
-                    System.out.print(words[i] + " ");
+                    rev+= words[i];
+
+                    if(i!=0){
+                        rev+= " ";
+                    }
+
                 }
+
+                System.out.println(rev);
             }
         }
 

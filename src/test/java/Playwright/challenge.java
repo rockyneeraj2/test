@@ -170,7 +170,9 @@ Default reports not enough for stakeholders.
 
 ### 🔥 One-liner for interviews
 
-> “Playwright is powerful, but the main challenges are managing dynamic UI behavior, parallel execution conflicts, CI stability, and scalable test data. Most issues are solved with proper framework design rather than tool limitations.”
+> “Playwright is powerful, but the main challenges are managing dynamic UI behavior, parallel execution
+conflicts, CI stability, and scalable test data. Most issues are solved with proper framework design rather
+ than tool limitations.”
 
 If you want, I can:
 
