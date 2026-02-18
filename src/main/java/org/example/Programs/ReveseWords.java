@@ -18,6 +18,7 @@ public class ReveseWords {
                 }
 
                 System.out.println(rev);
+        //System.out.println(rev.trim();
             }
         }
 
