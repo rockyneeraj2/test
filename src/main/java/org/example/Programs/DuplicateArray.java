@@ -75,6 +75,30 @@ public class DuplicateArray {
             System.out.println(ee+"--"+map.get(ee));
         }
 
+        /*
+
+        class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+	    int [] arr = {1,2,3,42,3,1,2};
+
+	   Map<Integer,Integer> map = new HashMap<Integer,Integer>();
+
+	   for(Integer i : arr){
+	       map.put(i,map.getOrDefault(i,0)+1);
+	   }
+
+	   for(Integer c: map.keySet()){
+	       if(map.get(c)>1)
+	       System.out.println(c +" --" + map.get(c) );
+	   }
+	}
+
+}
+
+         */
+
 
 
     }
